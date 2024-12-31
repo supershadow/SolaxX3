@@ -30,3 +30,6 @@ wifi:
   
   ap:
     ssid: ${device_name}
+
+    
+web_server:
